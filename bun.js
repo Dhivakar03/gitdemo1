@@ -6,4 +6,6 @@ function sayHello() {
   
   // Call the "sayHello" function to execute it
   sayHello();
+  console.log("Hello, World!");
+
   
