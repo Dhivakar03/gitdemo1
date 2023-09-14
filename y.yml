@@ -1,0 +1,7 @@
+provider = aws 
+  ec2 instance = ami-inzdlfk 
+{
+ metedata
+    spec
+
+}
